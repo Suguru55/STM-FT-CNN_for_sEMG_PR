@@ -1,6 +1,6 @@
 # STM-FT-CNN_for_sEMG_PR
 
-This sample scripts are described in the paper "A Style Transfer Mapping and Fine-tuning Subject Transfer Framework Using Convolutional Neural Networks for Surface Electromyogram Pattern Recognition" submitted by <i>ICASSP2022</i>.<br />
+This sample scripts are described in the paper "A Style Transfer Mapping and Fine-tuning Subject Transfer Framework Using Convolutional Neural Networks for Surface Electromyogram Pattern Recognition" accepted by <i>ICASSP2022</i>.<br />
 
 __\<Description\>__<br />
 After changing information about your directories in main.m (lines 6 and 8), downloading getxxfeat.m, and installing LIBSVM package, you can use this codes.<br />
