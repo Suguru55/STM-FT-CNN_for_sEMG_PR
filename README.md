@@ -7,10 +7,10 @@ After changing information about your directories in main.m (lines 6 and 8), dow
 This project has three folders:<br />
 1. data <br />
    you can get NinaPro DB5 from <a href="https://zenodo.org/record/1000116" target="_blank">here</a> and and MyoDatasets from <a href="https://github.com/Suguru55/SS-STM_for_MyoDatasets" target="_blank">here</a>. After downloading them, sepalate NinaPro DB5 mat files into their respective folders and delete txt files with the same name and put subXX folders of SS-STM_for_MyoDatasets to private folder.<br />
+   - private (MyoDatasets)<br />
    - NinaPro DB5 exerciseA<br />
    - NinaPro DB5 exerciseB<br />
    - NinaPro DB5 exerciseC<br />
-   - private (MyoDatasets)<br />
 
 2. code<br />
    this folder has one main m.file named main_script that uses:<br />
