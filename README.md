@@ -49,4 +49,5 @@ Windows 10<br />
 MATLAB R2020a<br />
  1. Signal Processing Toolbox<br />
  2. Statics and Machine Learning Toolbox<br />
- 3. Deep Learning Toolbox<br />
+ 3. Parallel Comupting Toolbox<br />
+ 4. Deep Learning Toolbox<br />
