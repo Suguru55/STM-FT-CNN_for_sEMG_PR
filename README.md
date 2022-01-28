@@ -41,7 +41,8 @@ This project has three folders:<br />
     - visualize_results<br />
         
 3. resuts<br />
-   this folder will store results_xxx_acc_dsx.mat and boxplots.fig.<br />
+   this folder will store results_xxx_acc_dsx.mat.<br />
+   because the random seed is not fixed, the results of the methods combining STM and FT (i.e., STM-SVM, STM-CNN, FT-CNN, STM-FT-CNN) will be slightly different to the paper.<br />
 
 __\<Environments\>__<br />
 Windows 10<br />
