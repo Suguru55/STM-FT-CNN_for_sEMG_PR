@@ -13,7 +13,7 @@ This project has three folders:<br />
    - NinaPro DB5 exerciseC<br />
 
 2. code<br />
-   this folder has one main m.file named main_script that uses:<br />
+   this folder has one main m.file that uses:<br />
    - set_config<br />
    - preprocessing_ds1<br />
         - extract_features<br />
